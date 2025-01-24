@@ -2,6 +2,7 @@
 This Hair Salon Website is a sleek and responsive platform designed to showcase salon services, staff profiles, pricing, and booking options. The goal of this project was to create an engaging and user-friendly website using front-end technologies!
 
 Technologies Used:
+
 HTML: Structured the website with semantic elements for clear navigation.
 CSS: Styled the website with attention to layout, typography, and color schemes, including animations for a polished look.
 JavaScript: Added interactive features like dynamic navigation, service filtering, and form validation for appointment bookings.
